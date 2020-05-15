@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lokalise Demo</string>
+    <string name="test_key">This is a LOCAL value for this key from xml</string>
+</resources>
